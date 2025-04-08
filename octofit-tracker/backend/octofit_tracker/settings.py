@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-rp3e893p**-juz0kwfmc+%4p5h5+evc@o8nu3mnr6q8sk^2964
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', 'obscure-bassoon-8000.app.github.dev']
 
 
 # Application definition
